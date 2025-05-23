@@ -1,6 +1,12 @@
-# Got Scrum?
+# Team C♭ - Agile Estimation Project (Got Scrum?)
 
-Got Scrum? is a collaborative web application for agile teams to estimate user stories. It features real-time updates, user management, and persistent storage.
+## Overview
+
+Got Scrum? is a collaborative web application for agile teams to estimate user stories. It features real-time updates, user management, and persistent storage. Curently up to six team members join a room and are then able to partipate in creating user stories, the estimating process, and in viewing the backlog of estimated stories. 
+
+## Team
+
+**Team Name:** Team C♭
 
 ## Features
 
